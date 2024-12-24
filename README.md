@@ -1,1 +1,2 @@
-Code for PHITE study published in PNAS.
+# PHITE
+Code for PHITE study published in PNAS. 
